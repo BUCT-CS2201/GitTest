@@ -15,3 +15,5 @@ dot.edge('B', 'C', label='步骤2')
 
 # 保存并渲染图像
 dot.render(filename='demo.gv', view=True)
+
+print("xxxx")
