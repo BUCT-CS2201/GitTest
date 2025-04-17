@@ -2,7 +2,7 @@
 from graphviz import Digraph
 
 # 初始化有向图
-dot = Digraph(comment='示例流程图', format='png')
+dot = Digraph(comment='示例流程图xxxx', format='png')
 
 # 添加节点（可自定义颜色、形状）
 dot.node('A', '启动', color='blue', shape='box')
